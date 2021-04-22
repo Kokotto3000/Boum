@@ -56,10 +56,3 @@ function main(){
         return gsap.isTweening('.slot div'); // renvoie true ou false
     }
 }
-
-
-
-
-
-
-
